@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/alternacanvas-hosting/static/css/main.a95cb032.css",
+    "main.js": "/alternacanvas-hosting/static/js/main.459f991f.js",
+    "static/media/slick.svg": "/alternacanvas-hosting/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/alternacanvas-hosting/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/alternacanvas-hosting/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/alternacanvas-hosting/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/alternacanvas-hosting/index.html",
+    "main.a95cb032.css.map": "/alternacanvas-hosting/static/css/main.a95cb032.css.map",
+    "main.459f991f.js.map": "/alternacanvas-hosting/static/js/main.459f991f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a95cb032.css",
+    "static/js/main.459f991f.js"
+  ]
+}
